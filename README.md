@@ -1,4 +1,6 @@
 # QR-code-generator
+
+#### Click to see full GIF
 ![QR Code Generator](img/qr-code-gif.gif)
 
 # QR Code Generator Readme
