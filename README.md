@@ -1,7 +1,10 @@
 # QR-code-generator
 # QR Code Generator Readme
 
-This is a simple QR code generator built using HTML, JavaScript, and Bootstrap 5. The application allows users to create QR codes for URLs or text. The QR code is generated using the [qrserver.com](https://qrserver.com) API. Below is a brief explanation of the code and how to use the generator.
+This is a simple QR code generator built using HTML, JavaScript, and Bootstrap 5.
+![QR Code Generator](qr-code-gif.gif)
+
+The application allows users to create QR codes for URLs or text. The QR code is generated using the [qrserver.com](https://qrserver.com) API. Below is a brief explanation of the code and how to use the generator.
 
 ## How to Use
 
