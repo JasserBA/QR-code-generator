@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@800&family=Poppins:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.h-20rem{
+    height: 17rem;
+    transition: height .4s ease;
+}
+.wrapper.active{
+    height: 30rem;
+}
+.form input{
+    outline: none;
+}
+.form button:hover{
+    color:#0dcaf0  !important ;
+}
+.max-vw-30rem{
+    max-width: 30rem!important;
+}
